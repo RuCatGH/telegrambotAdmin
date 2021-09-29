@@ -1,2 +1,0 @@
-TOKEN = "token"
-GROUP_ID = 1001599159058
